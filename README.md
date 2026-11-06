@@ -2,6 +2,8 @@
 
 전민수의 서비스 개발·운영, AI 교육, 컨설팅 및 채용 제안용 프로필 사이트입니다.
 
+공개 주소: https://meensoo.pages.dev/
+
 ## Source
 
 - `dist/index.html`: 페이지 콘텐츠
